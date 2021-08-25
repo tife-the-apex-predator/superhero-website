@@ -1,0 +1,40 @@
+body{
+	background-color: #e5f6df;
+	text-align: center;
+}
+
+ #title{
+	font-size: 40px;
+	color: #003366;
+}
+#subtitle{
+	color: blue;
+	font-size: 20px;
+}
+
+#superhero{
+	width: 60%;
+	height: 40px;
+	border-radius: 10px;
+	border: 1px solid white;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+#submit_button{
+	background-color: blue;
+	color: white;
+	border: 1px solid blue;
+	border-radius: 10px ;
+	height: 40px;
+	width: 100px;
+}
+#power{
+	width: 50%;
+	font-size: 30px;
+	margin-left: 20%;
+	margin-right: 20% ;
+	border: 2px solid blue;
+}
+th, td{
+	border: 2px solid blue;
+}
